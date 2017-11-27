@@ -1,0 +1,7 @@
+#•¶Žš—ñ‚Ì˜AŒ‹
+x = y
+print( x + hogehoge ) -> yhogehoge
+
+#•Ï”‚É‚¨‚¯‚é•¶Žš—ñ‚Æ”’l‚Ì•ÏŠ·
+int() ”’l‚Ö‚Ì•ÏŠ·
+str() •¶Žš—ñ‚Ö‚Ì•ÏŠ·
